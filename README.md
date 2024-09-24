@@ -1,4 +1,4 @@
 # PU-DEMO
 This is my first Git Repository
 <br>
-Auther- Khush Shah
+Auther- Khush jain PU
